@@ -1,4 +1,4 @@
-## Dad Jokes Chrome Extension  
+# Dad Jokes Chrome Extension  
 
 The Dad Jokes Chrome Extension is a fun and entertaining project that brings the joy of dad jokes to your browsing experience. This extension displays a random dad joke every time you open a new tab in your Google Chrome browser, ensuring a constant supply of laughter and groans.
 
@@ -17,3 +17,12 @@ git clone https://github.com/your-username/dad-jokes-chrome-extension.git
 - Click on the Load unpacked button and select the cloned directory (dad-jokes-chrome-extension) from your local machine.
 
 - The Dad Jokes Chrome Extension should now be installed and active in your browser.
+
+## Acknowledgements
+
+
+- [Dad Jokes API](https://icanhazdadjoke.com/) - A free and open API for retrieving dad jokes. 
+
+- [Chrome Extension Developer Guide ](https://developer.chrome.com/docs/extensions/)- Official documentation for developing Chrome extensions.
+
+## Screenshots
