@@ -1,0 +1,17 @@
+body {
+    width: 280px;
+    height: 280px;
+    background-color: #F5EBEB;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    display: inner-flex;
+    margin: auto 10px;
+    font-size: 20px;
+    color: #7286D3;
+    border-radius: 6px;
+    border: 2px solid #D5B4B4;
+    padding: 10px;
+}
